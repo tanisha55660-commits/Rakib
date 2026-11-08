@@ -1,7 +1,0 @@
-{
-  "sdk": "docker",
-  "app": {
-    "port": 5000,
-    "healthCheck": "/"
-  }
-}
