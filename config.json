@@ -1,0 +1,60 @@
+{
+  "site_title": "SHIHAB X HOSTING",
+  "site_header": "SHIHAB X HOSTING",
+  "icon_url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='%2300ff00'%3E%3Cpath d='M20 9V7c0-1.1-.9-2-2-2h-4c0-1.1-.9-2-2-2H6c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-2h-2v2H6V5h4v2h8v2h2z'/%3E%3C/svg%3E",
+  "theme": "matrix",
+  "font_family": "default",
+  "colors": {
+    "matrix": {
+      "name": "Matrix Green",
+      "primary": "#00ff00",
+      "secondary": "#00cc00",
+      "accent": "#00ff80",
+      "background": "#000000",
+      "card_bg": "#0a0a0a",
+      "text": "#00ff00",
+      "danger": "#ff0000",
+      "header_text": "#00ff00",
+      "stats_text": "#00ff00"
+    }
+  },
+  "fonts": {
+    "default": "'Segoe UI', sans-serif",
+    "hacker": "'Courier New', monospace",
+    "terminal": "'Consolas', monospace",
+    "code": "'Fira Code', monospace",
+    "retro": "'VT323', monospace"
+  },
+  "background": {
+    "type": "blackhole",
+    "url": "",
+    "opacity": 0.82,
+    "speed": 1.0,
+    "emoji": "❤️✨💎🔥⭐",
+    "rain_count": 28
+  },
+  "branding": {
+    "credit": "T10 SHIHAB",
+    "version": "3.0.0"
+  },
+  "passwords": {
+    "secret": "01a670f852f7e1a7bda8bf3ab00ed2c1b6a7d995b50d3f8093cb73e924098136",
+    "user": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+  },
+  "users": {
+    "admin": {
+      "password": "36c0352ac1c91e68307146f11198f754c52b68f3143044fdf9a75e5c4f245090",
+      "role": "admin"
+    }
+  },
+  "default_max_servers": 5,
+  "user_limits": {},
+  "support": {
+    "name": "Support",
+    "link": "https://t.me/ShihabXOFC"
+  },
+  "login_access": {
+    "name": "GET ACCESS",
+    "link": "https://t.me/Shihab_71S"
+  }
+}
